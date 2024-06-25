@@ -14,6 +14,10 @@
     ],
     "sharedGlobals": []
   },
+  "workspaceLayout": {
+    "appsDir": "apps",
+    "libsDir": "packages"
+  },
   "plugins": [
     {
       "plugin": "@nx/next/plugin",
