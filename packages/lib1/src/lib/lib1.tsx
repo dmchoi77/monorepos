@@ -1,14 +1,8 @@
-import styled from 'tailwind';
-
-const StyledLib1 = styled.div`
-  color: pink;
-`;
-
 export function Lib1() {
   return (
-    <StyledLib1>
+    <div>
       <h1>Welcome to Lib1!</h1>
-    </StyledLib1>
+    </div>
   );
 }
 
