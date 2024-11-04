@@ -1,3 +1,5 @@
+import { Lib1 } from 'lib1';
+
 export default function Index() {
   /*
    * Replace the elements below with your own.
@@ -7,6 +9,7 @@ export default function Index() {
   console.log(1);
   return (
     <div>
+      <Lib1 />
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
